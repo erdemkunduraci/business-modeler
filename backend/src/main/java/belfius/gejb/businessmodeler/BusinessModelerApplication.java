@@ -1,4 +1,4 @@
-package belfius.gejb.dmntool;
+package belfius.gejb.businessmodeler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
